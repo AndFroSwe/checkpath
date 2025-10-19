@@ -17,7 +17,7 @@ terminal before running again to get the current path.
 
 ## Disclaimer
 
-* This is a toy project and is not intended for production use (duh!).
-* This was not vibe code, despite the use of emojis in prints. I just thought
+* This is a toy project and is not intended for production use (duh!)
+* This was not vibe coded, despite the use of emojis in prints. I just thought
 it looked nice :)
 * Only tested on Windows
