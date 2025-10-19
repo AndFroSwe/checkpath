@@ -12,6 +12,8 @@ go run cmd/checkpath.go
 ```
 
 Check the output, if it lists any entries, remove them from path.
+Note that you may need to reload the environment or restart the 
+terminal before running again to get the current path.
 
 ## Disclaimer
 
