@@ -18,3 +18,4 @@ Check the output, if it lists any entries, remove them from path.
 * This is a toy project and is not intended for production use (duh!).
 * This was not vibe code, despite the use of emojis in prints. I just thought
 it looked nice :)
+* Only tested on Windows
